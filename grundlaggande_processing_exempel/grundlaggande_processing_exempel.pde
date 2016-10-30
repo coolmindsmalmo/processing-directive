@@ -1,6 +1,6 @@
 
 /*
-*  höstlovs exampel - grunläggande processing 
+*  höstlovs exampel - grundläggande processing 
 *  2016-10-30
 *  av: Alrik He
 */
@@ -23,16 +23,16 @@ void setup() {
 // draw() funktionen körs varje frame updatering
 void draw() {
   // bakgrund som målar över allt
-  // RGB system (röd,grön,blå)
+  // RGB system (röd,grön,blå) (förklara rgb systemet)
   background(255,255,255);
   
-  //sträckfärg RGBsytem
+  //sträckfärg RGBsytem 
   stroke(0,0,255);
   
   //sträcktjockleken i pixlar
   strokeWeight(5);
   
-  //en prick
+  //en prick (förklara koordinat systemet)
   point(100,200);
   
   //en prick med variablar
