@@ -12,6 +12,7 @@ int y;
 
 //setup() funktionen körs en gång
 void setup() {
+  //fönster storleken  size(bredd,höjd);
   size(500, 500);
   
   // tilldela värden (<--höger till vänstersida )
