@@ -1,4 +1,10 @@
 
+/*
+*  höstlovs exampel - ljud och bild
+*  2016-10-30
+*  av: Alrik He
+*/
+
 // importerar biblioteket som innehåller kod
 import processing.sound.*;
 

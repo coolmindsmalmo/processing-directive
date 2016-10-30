@@ -1,6 +1,6 @@
 
 /*
-*  höstlovs exampel grunläggande processing 
+*  höstlovs exampel - grunläggande processing 
 *  2016-10-30
 *  av: Alrik He
 */
